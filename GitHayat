@@ -1,0 +1,17 @@
+# Clone your repo (only the first time)
+git clone https://github.com/hazoomzoom/Hayat.git
+
+# Change directory to your project
+cd your-repo-name
+
+# Check the status of your files
+git status
+
+# Add all your changes to be committed
+git add .
+
+# Commit your changes with a message
+git commit -m "Describe what you changed"
+
+# Push your changes to GitHub
+git push
